@@ -35,6 +35,8 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 2016-2017年写的博客使用的python版本是2.7， 2018年因为TensorFlow对Python3的一些要求，所以写博客使用的Python版本是3.6。少部分2016，2017年的博客代码无法找到，重新用Python3.6跑过上传，因此可能会出现和博客中代码稍有不一致的地方，主要涉及到print的语法和range的用法，若遇到问题，稍微修改即可跑通。
 
+## [赞助我](#13)
+
 <h3 id="1">强化学习文章与代码：:</h3>
 
 |文章 | 代码|
@@ -109,6 +111,12 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [MCMC(二)马尔科夫链](https://www.cnblogs.com/pinard/p/6632399.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/mcmc_2.ipynb)
 [MCMC(三)MCMC采样和M-H采样](https://www.cnblogs.com/pinard/p/6638955.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/mcmc_3_4.ipynb)
 [MCMC(四)Gibbs采样](https://www.cnblogs.com/pinard/p/6645766.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/mcmc_3_4.ipynb)
+[机器学习中的矩阵向量求导(一) 求导定义与求导布局](https://www.cnblogs.com/pinard/p/10750718.html)|无
+[机器学习中的矩阵向量求导(二) 矩阵向量求导之定义法](https://www.cnblogs.com/pinard/p/10773942.html)|无
+[机器学习中的矩阵向量求导(三) 矩阵向量求导之微分法](https://www.cnblogs.com/pinard/p/10791506.html)|无
+[机器学习中的矩阵向量求导(四) 矩阵向量求导链式法则](https://www.cnblogs.com/pinard/p/10825264.html)|无
+[机器学习中的矩阵向量求导(五) 矩阵对矩阵的求导](https://www.cnblogs.com/pinard/p/10930902.html)|无
+
 
 <h3 id="6">机器学习集成学习文章与代码：</h3>
 
@@ -121,6 +129,9 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [scikit-learn 梯度提升树(GBDT)调参小结](https://www.cnblogs.com/pinard/p/6143927.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/gbdt_classifier.ipynb)
 [Bagging与随机森林算法原理小结](https://www.cnblogs.com/pinard/p/6156009.html) | 无
 [scikit-learn随机森林调参小结](https://www.cnblogs.com/pinard/p/6160412.html) |  [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/random_forest_classifier.ipynb)
+[XGBoost算法原理小结](https://www.cnblogs.com/pinard/p/10979808.html) | 无
+[XGBoost类库使用小结](https://www.cnblogs.com/pinard/p/11114748.html) |  [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/xgboost-example.ipynb)
+
 
 <h3 id="4">机器学习聚类算法文章与代码：</h3>
 
@@ -223,5 +234,14 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [特征工程之特征预处理](https://www.cnblogs.com/pinard/p/9093890.html)|无
 [用PMML实现机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9220199.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/sklearn-jpmml)
 [tensorflow机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9251296.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/tensorflow-java)
+
+<h3 id="13">赞助我</h3>
+
+你的支持是我写作的动力(1.微信/2.支付宝)：
+
+![微信赞助](./assert/invoice.bmp)
+
+
+![支付宝赞助](./assert/invoice_ali.bmp)
 
 License MIT.
